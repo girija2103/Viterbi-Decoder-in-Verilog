@@ -1,7 +1,3 @@
-Here's the properly indented text:
-
----
-
 ## Overview
 
 The Viterbi algorithm is renowned as a maximum likelihood (ML) decoding technique for convolutional codes. The path memory unit in an (n,k,m) Viterbi Decoder is responsible for keeping track of the information bits associated with the surviving paths designated by the path metric unit. Viterbi decoders and binary convolutional codes are denoted by a three-tuple (n, k, m), where:
